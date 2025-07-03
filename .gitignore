@@ -1,0 +1,14 @@
+# virtual env and enviroement files
+.env
+.env/
+env
+
+# python files
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# example files
+json/*.json
