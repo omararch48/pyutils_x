@@ -12,3 +12,6 @@ __pycache__/
 
 # example files
 json/*.json
+
+# main __init__
+__init__.py
